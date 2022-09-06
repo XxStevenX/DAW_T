@@ -1,0 +1,30 @@
+/* Lista de definición */
+body {
+    background-color: black;
+}
+.lista{
+    border: solid;
+    text-align: center;
+    color: antiquewhite;
+}
+
+dt a{
+    text-decoration: none;
+    color: brown;
+    font-size: 15pt;
+}
+
+#tema {
+    color: antiquewhite;
+    text-align: center;
+    font-size: 20pt;
+    background-color: dimgrey;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border: solid;
+    border-color: brown;
+}
+
+
+
+    
